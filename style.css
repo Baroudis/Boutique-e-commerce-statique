@@ -1,0 +1,86 @@
+.vertlorem {
+
+    font-size: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.rougelorem {
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.container-fluid {
+    background-color: blueviolet;
+}
+
+.container {
+    border: solid 1px;
+    border-color: black;
+    background-color: aqua;
+    border-radius: 10px;
+    ;
+}
+
+.pample {
+
+    margin-left: auto;
+    margin-right: auto;
+    height: 150px;
+    width: 250px;
+}
+
+.formulaire {
+    border: solid 1px;
+    border-color: black;
+    background-color: rgba(5, 130, 202, 0.959);
+}
+
+.montableau {
+    margin-top: 20px;
+    border: solid 1px;
+
+}
+
+.imgtable {
+    width: 100px;
+    ;
+}
+
+.matable {
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+td,
+th {
+    text-align: center;
+    vertical-align: middle;
+}
+
+img:hover {
+
+    background-color: aquamarine;
+    transform: scale(1.2);
+
+}
+
+.mabaniere {
+    background-image: url(img/ban.jpg);
+    background-color: blue;
+    height: 100vh;
+}
+
+h1 {
+
+    text-align: center;
+    vertical-align: middle;
+    margin-top: 200px;
+
+}
+button{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
