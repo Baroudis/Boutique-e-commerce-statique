@@ -120,9 +120,10 @@ button {
     /*width:33%;*/
     padding: 20px;
     border: 1px solid;
-    width : 630px;
-    margin-left: 10px;  
+    width: 630px;
+    margin-left: 10px;
 }
+
 .pasmoitie {
     /*background-image: url(img/water.jpg);*/
     /*margin: 0 auto;*/
@@ -131,9 +132,9 @@ button {
     /*width:33%;*/
     padding: 20px;
     border: 1px solid;
-    width :26em;
+    width: 26em;
     margin-left: 10px;
-    
+
 }
 
 
@@ -146,4 +147,10 @@ img {
     height: 250px;
     width: 250px;
     border-radius: 10px;
+}
+
+p {
+    animation-duration: 3s;
+    animation-name: slidein;
+    animation-iteration-count: infinite;
 }
