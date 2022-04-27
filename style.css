@@ -75,6 +75,14 @@ img:hover {
 
 }
 
+img.affi:hover {
+
+    background-color: rgb(255, 127, 127);
+    border-radius: 10px;
+    transform: scale(1.2);
+
+}
+
 .mabaniere {
     background-image: url(img/So.jpeg);
     height: 100vh;
@@ -104,19 +112,38 @@ button {
     margin-top: 50px;
 }
 
-.card {
+.moitie {
     /*background-image: url(img/water.jpg);*/
-    margin: 0 auto;
+    /*margin: 0 auto;*/
     float: none;
     margin-bottom: 10px;
-    /*width: 35%;*/
+    /*width:33%;*/
+    padding: 20px;
+    border: 1px solid;
+    width : 630px;
+    margin-left: 10px;  
 }
-.card-text{
+.pasmoitie {
+    /*background-image: url(img/water.jpg);*/
+    /*margin: 0 auto;*/
+    float: none;
+    margin-bottom: 10px;
+    /*width:33%;*/
+    padding: 20px;
+    border: 1px solid;
+    width :26em;
+    margin-left: 10px;
+    
+}
+
+
+
+.card-text {
     min-height: 10px;
 }
 
-img{
-    height:250px;
+img {
+    height: 250px;
     width: 250px;
     border-radius: 10px;
 }
