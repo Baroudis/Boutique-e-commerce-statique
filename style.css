@@ -18,20 +18,15 @@
 }
 
 .container-fluid {
-    /* background-color: blueviolet;*/
     border-radius: 10px;
 }
 
-.container {
-    /* border: solid 1px;*/
+.container { 
     border-color: black;
-    /* background-color: aqua;*/
     border-radius: 10px;
-    ;
 }
 
 .pample {
-
     margin-left: auto;
     margin-right: auto;
     height: 150px;
@@ -42,18 +37,15 @@
     border: solid 1px;
     border-color: black;
     border-radius: 10px;
-    /*background-color: rgba(5, 130, 202, 0.959);*/
 }
 
 .montableau {
     margin-top: 20px;
     border: solid 1px;
-
 }
 
 .imgtable {
     width: 100px;
-    ;
 }
 
 .matable {
@@ -61,26 +53,21 @@
     margin-bottom: 30px;
 }
 
-td,
-th {
+td, th {
     text-align: center;
     vertical-align: middle;
 }
 
 img:hover {
-
     background-color: aquamarine;
     border-radius: 10px;
     transform: scale(1.2);
-
 }
 
 img.affi:hover {
-
     background-color: rgb(255, 127, 127);
     border-radius: 10px;
     transform: scale(1.2);
-
 }
 
 .mabaniere {
@@ -91,11 +78,9 @@ img.affi:hover {
 }
 
 h1 {
-
     text-align: center;
     vertical-align: middle;
     margin-top: 200px;
-
 }
 
 button {
@@ -104,7 +89,6 @@ button {
 }
 
 .panier {
-
     margin-left: 200px;
 }
 
@@ -113,11 +97,8 @@ button {
 }
 
 .moitie {
-    /*background-image: url(img/water.jpg);*/
-    /*margin: 0 auto;*/
     float: none;
     margin-bottom: 10px;
-    /*width:33%;*/
     padding: 20px;
     border: 1px solid;
     width: 630px;
@@ -125,16 +106,12 @@ button {
 }
 
 .pasmoitie {
-    /*background-image: url(img/water.jpg);*/
-    /*margin: 0 auto;*/
     float: none;
     margin-bottom: 10px;
-    /*width:33%;*/
     padding: 20px;
     border: 1px solid;
     width: 26em;
     margin-left: 10px;
-
 }
 
 

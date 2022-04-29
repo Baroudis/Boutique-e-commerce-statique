@@ -1,0 +1,19 @@
+Site de vente en ligne statique fait avec HTML/CSS/BOOTSTRAP
+
+baniére d'accueil qui prend toute la page
+
+Menu avec login qui est un modal pop-up
+
+Tableau de présentation des produits avec image qui s'agrandissent au survol et une autre couleur de fond 
+
+Autre façon de présenté les produit avec des CARD et bouton d'ajouter au panier
+
+images qui s'agrandissent au survol avec une autres couleurs
+
+Formulaire de contact 
+
+footer avec copiright et lien 
+
+
+
+
