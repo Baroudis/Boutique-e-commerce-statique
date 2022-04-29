@@ -131,3 +131,6 @@ p {
     animation-name: slidein;
     animation-iteration-count: infinite;
 }
+.qty{
+    width: 200px;
+}

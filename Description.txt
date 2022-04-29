@@ -14,7 +14,7 @@ Formulaire de contact
 
 footer avec copiright et lien 
 
-le site est responsive, quand la taille de l'écran change la disposition  des éléments de la page change
+le site est responsive, quand la taille de l'écran change la disposition  des éléments de la page change ainsi que la barre de navigation
 
 le code source est disponible sur github voici le lien :
   
