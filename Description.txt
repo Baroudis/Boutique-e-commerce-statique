@@ -6,6 +6,8 @@ Menu avec login qui est un modal pop-up
 
 Tableau de présentation des produits avec image qui s'agrandissent au survol et une autre couleur de fond 
 
+fonctionalité de calcule des prix par rapport au nombre de produit choisit
+
 Autre façon de présenté les produit avec des CARD et bouton d'ajouter au panier 
 
 images qui s'agrandissent au survol avec une autres couleurs
