@@ -16,8 +16,10 @@ footer avec copiright et lien
 
 le site est responsive, quand la taille de l'écran change la disposition  des éléments de la page change
 
+
 le code source est disponible sur github voici le lien :
   
+
 https://github.com/Baroudis/Boutique-e-commerce-statique.git
 
 Des captures d'écran sont disponible dans le dossier
